@@ -1,0 +1,18 @@
+.timeline-info {
+  margin-top: 30px;
+  padding: 15px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+  font-size: 14px;
+  color: #495057;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+.timeline-info p {
+  margin: 5px 0;
+}
+
+.timeline-info strong {
+  color: #2c3e50;
+}
